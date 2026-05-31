@@ -1,0 +1,69 @@
+﻿{
+  "6979e3f736666affe81a31ec": {
+    "_id": "6979e40bc99573bfa31a31ed",
+    "_changeWeaponName": true,
+    "_items": [
+      {
+        "_id": "6979e0b69459f56f441e493b",
+        "_tpl": "5447a9cd4bdc2dbd208b4567"
+      },
+      {
+        "_id": "6979e0b69459f56f441e493c",
+        "_tpl": "57c55efc2459772d2c6271e7",
+        "parentId": "6979e0b69459f56f441e493b",
+        "slotId": "mod_pistol_grip"
+      },
+      {
+        "_id": "6979e0b69459f56f441e493d",
+        "_tpl": "55d4887d4bdc2d962f8b4570",
+        "parentId": "6979e0b69459f56f441e493b",
+        "slotId": "mod_magazine"
+      },
+      {
+        "_id": "6979e0b69459f56f441e493e",
+        "_tpl": "6979dc6aff68b50619c6b02d",
+        "parentId": "6979e0b69459f56f441e493b",
+        "slotId": "mod_reciever"
+      },
+      {
+        "_id": "6979e0b69459f56f441e493f",
+        "_tpl": "5649be884bdc2d79388b4577",
+        "parentId": "6979e0b69459f56f441e493b",
+        "slotId": "mod_stock"
+      },
+      {
+        "_id": "6979e0b69459f56f441e4940",
+        "_tpl": "55d44fd14bdc2d962f8b456e",
+        "parentId": "6979e0b69459f56f441e493b",
+        "slotId": "mod_charge"
+      },
+      {
+        "_id": "6979e0b69459f56f441e4941",
+        "_tpl": "6979dae30dbcf93527c6b026",
+        "parentId": "6979e0b69459f56f441e493e",
+        "slotId": "mod_barrel"
+      },
+      {
+        "_id": "6979e0b69459f56f441e4944",
+        "_tpl": "5ae30c9a5acfc408fb139a03",
+        "parentId": "6979e08a9459f56f441e490f",
+        "slotId": "mod_stock_000"
+      },
+      {
+        "_id": "6979e0b69459f56f441e4945",
+        "_tpl": "544a38634bdc2d58388b4568",
+        "parentId": "6979e08a9459f56f441e4911",
+        "slotId": "mod_muzzle"
+      },
+      {
+        "_id": "6979e0b69459f56f441e4946",
+        "_tpl": "6979d9d902971f2c77c6b024",
+        "parentId": "6979e08a9459f56f441e4911",
+        "slotId": "mod_gas_block"
+      }
+    ],
+    "_name": "M4A1 MRP-L",
+    "_parent": "6979e0b69459f56f441e493b",
+    "_type": "Preset"
+  }
+}

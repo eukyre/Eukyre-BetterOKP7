@@ -1,0 +1,94 @@
+﻿{
+  "570fd79bd2720bc7458b4583": { //New OKP-7
+    "itemTplToClone": "570fd79bd2720bc7458b4583",
+    "parentId": "55818ad54bdc2ddc698b4569",
+    "handbookParentId": "5b5f742686f774093e6cb4ff",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "ModesCount": [
+        3
+      ],
+      "AimSensitivity": [
+        [
+          0.65,
+          0.65,
+          0.65
+        ]
+      ],
+      "Zooms": [
+        [
+          1,
+          1,
+          1
+        ]
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "OKP-7 reflex sight",
+        "shortName": "OKP-7",
+        "description": "The original design of OKP sights allows firing from unstable positions in rapidly changing conditions, reduces the operator fatigue, and, if necessary, allows unhindered use of base mechanical sights. The key feature of this sight is a rimless reflector attachment that doesn't block any field of fire sections; instead, reflector is protected by thin and durable visor that is almost un-noticeable when firing. Includes the option to change between 3 factory reticles."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 12303,
+    "handbookPriceRoubles": 5034,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {},
+    "masterySections": []
+  },
+  "57486e672459770abd687134": { //New OKP-7 (Dovetail)
+    "itemTplToClone": "57486e672459770abd687134",
+    "parentId": "55818ad54bdc2ddc698b4569",
+    "handbookParentId": "5b5f742686f774093e6cb4ff",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "ModesCount": [
+        3
+      ],
+      "AimSensitivity": [
+       [
+         0.65,
+         0.65,
+         0.65
+       ]
+      ],
+      "Zooms": [
+        [
+          1,
+          1,
+          1
+        ]
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "OKP-7 reflex sight (Dovetail)",
+        "shortName": "OKP-7 DT",
+        "description": "The original design of OKP sights allows firing from unstable positions in rapidly changing conditions, reduces the operator fatigue, and, if necessary, allows unhindered use of base mechanical sights. The key feature of this sight is a rimless reflector attachment that doesn't block any field of fire sections; instead, reflector is protected by thin and durable visor that is almost un-noticeable when firing. This variant is installed on the dovetail type mount, and includes the option to change between 3 factory reticles."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 15155,
+    "handbookPriceRoubles": 7924,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {},
+    "masterySections": []
+  }
+}

@@ -1,0 +1,79 @@
+﻿{
+  "695296fc03e705774173c285": {
+    "itemTplToClone": "5fbcc1d9016cce60e8341ab3",
+    "parentId": "5447b5f14bdc2d61278b4567",
+    "handbookParentId": "5b5f78fc86f77409407a7f90",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "weapon_spear_lt_container.bundle",
+        "rcid": ""
+      },
+      "RecoilForceBack": 342,
+      "RecoilForceUp": 119,
+      "HeatFactorByShot": 1.235,
+      "HeatFactorGun": 1,
+      "ammoCaliber": "Caliber556x45NATO",
+      "defAmmo": "54527a984bdc2d4e668b4567",
+      "defMagType": "55d4887d4bdc2d962f8b4570",
+      "Chambers": [
+        {
+          "_id": "695298515b73e01fca73c286",
+          "_mergeSlotWithChildren": false,
+          "_name": "patron_in_weapon",
+          "_parent": "695296fc03e705774173c285",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "59e6920f86f77411d82aa167",
+                  "59e6927d86f77411da468256",
+                  "54527a984bdc2d4e668b4567",
+                  "54527ac44bdc2d36668b4567",
+                  "59e68f6f86f7746c9f75e846",
+                  "59e6906286f7746c9f75e847",
+                  "59e690b686f7746c9f75e848",
+                  "59e6918f86f7746c9f75e849",
+                  "60194943740c5d77f6705eea",
+                  "601949593ae8f707c4608daa",
+                  "5c0d5ae286f7741e46554302"
+                ]
+              }
+            ]
+          },
+          "_proto": "55d4af244bdc2d962f8b4571",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "SIG MCX-SPEAR LT 5.56x45 assault rifle",
+        "shortName": "SPEAR LT 5.56",
+        "description": "A modernized evolution of the MCX platform chambered in 5.56x45 NATO, blending the rugged reliability of a short-stroke gas piston system with enhanced modularity and ergonomic design. Built on a lightweight aluminum frame with fully ambidextrous controls, folding stock, and optics-ready layout, the MCX-SPEAR LT accepts AR-15 style triggers and standard magazines while offering improved balance and handling over legacy MCX variants. Manufactured by SIG USA."
+      }
+    },
+    "fleaPriceRoubles": 1,
+    "handbookPriceRoubles": 1,
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "traders": {},
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "masteries": true,
+    "masterySections": [
+      {
+        "Level2": 275,
+        "Level3": 350,
+        "Name": "SPEAR LT",
+        "Templates": [
+          "695296fc03e705774173c285"
+        ]
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  }
+}

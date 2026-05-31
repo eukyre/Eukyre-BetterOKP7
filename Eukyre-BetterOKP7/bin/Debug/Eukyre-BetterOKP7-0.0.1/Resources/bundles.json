@@ -1,0 +1,24 @@
+{
+  "manifest": [
+    {
+      "key": "scope_all_ekb_okp7.bundle",
+      "dependencyKeys": [
+        "assets/systems/effects/opticsight/opticsightsmasks.bundle",
+        "shaders",
+        "assets/systems/effects/collimator.bundle",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "scope_dovetail_ekb_okp7_dovetail.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/systems/effects/opticsight/opticsightsmasks.bundle",
+        "shaders",
+        "assets/systems/effects/collimator.bundle",
+        "cubemaps"
+      ]
+    }
+  ]
+}

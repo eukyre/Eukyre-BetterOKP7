@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f8525b04-e38e-479a-96a8-0b741ffb5fae" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JSON File" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/cb5fc75e0a8b4cf1bb949f5a59fdd2fb551600/6c/e77d5de1/TemplateItemProperties.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Eukyre-BetterOKP7/Resources/db/CustomItems/newOKP7.jsonc" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="36GdVH68AACtnnlwPCyDwomW2wv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8525b04-e38e-479a-96a8-0b741ffb5fae" name="Changes" comment="" />
+      <created>1764636864141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764636864141</updated>
+      <workItem from="1764636865255" duration="816000" />
+      <workItem from="1764637711615" duration="1458000" />
+      <workItem from="1764702022781" duration="50000" />
+      <workItem from="1767020238147" duration="1128000" />
+      <workItem from="1767022993502" duration="663000" />
+      <workItem from="1768517486950" duration="155000" />
+      <workItem from="1768517684596" duration="13000" />
+      <workItem from="1768517771963" duration="25000" />
+      <workItem from="1768517862571" duration="66000" />
+      <workItem from="1768518026493" duration="82000" />
+      <workItem from="1768526957601" duration="646000" />
+      <workItem from="1769481229388" duration="60000" />
+      <workItem from="1769481829561" duration="9000" />
+      <workItem from="1769482119329" duration="28000" />
+      <workItem from="1769482331499" duration="104000" />
+      <workItem from="1769491452398" duration="310000" />
+      <workItem from="1769593247016" duration="1442000" />
+      <workItem from="1769595194287" duration="590000" />
+      <workItem from="1769595892433" duration="50000" />
+      <workItem from="1769596051711" duration="249000" />
+      <workItem from="1769596546849" duration="854000" />
+      <workItem from="1769615631757" duration="1748000" />
+      <workItem from="1769706849271" duration="1037000" />
+      <workItem from="1769720023253" duration="1685000" />
+      <workItem from="1769724304800" duration="941000" />
+      <workItem from="1769725322375" duration="555000" />
+      <workItem from="1769726092518" duration="1020000" />
+      <workItem from="1769727847829" duration="10000" />
+      <workItem from="1769727938056" duration="14000" />
+      <workItem from="1769727973713" duration="48000" />
+      <workItem from="1769728188698" duration="249000" />
+      <workItem from="1769728519681" duration="56000" />
+      <workItem from="1769728906776" duration="122000" />
+      <workItem from="1769729588273" duration="1034000" />
+      <workItem from="1769789951244" duration="1161000" />
+      <workItem from="1769803120047" duration="3494000" />
+      <workItem from="1769807217070" duration="295000" />
+      <workItem from="1769808567308" duration="316000" />
+      <workItem from="1769808925238" duration="231000" />
+      <workItem from="1769809304229" duration="400000" />
+      <workItem from="1769809952227" duration="67000" />
+      <workItem from="1769810077026" duration="172000" />
+      <workItem from="1769810266404" duration="115000" />
+      <workItem from="1769810787403" duration="111000" />
+      <workItem from="1769811284793" duration="111000" />
+      <workItem from="1769811831563" duration="63000" />
+      <workItem from="1774912344841" duration="41000" />
+      <workItem from="1780221783567" duration="9291000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
