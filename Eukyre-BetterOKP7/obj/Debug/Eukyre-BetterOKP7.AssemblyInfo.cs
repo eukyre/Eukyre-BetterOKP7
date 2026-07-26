@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Eukyre-BetterOKP7")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.2.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.2+874a4a3ef26f1ce3d761aeb2b7f160ffb7f69145")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.2+c565a401f3f8614d938cd75ea6d09786521410f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Eukyre-BetterOKP7")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Eukyre-BetterOKP7")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.2.0")]
